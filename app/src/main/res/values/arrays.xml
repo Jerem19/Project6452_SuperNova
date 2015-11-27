@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sections">
+        <item>@string/title_section1_home</item>
+        <item>@string/title_section2_news</item>
+        <item>@string/title_section3_program</item>
+        <item>@string/title_section4_speakers</item>
+        <item>@string/title_section5_partners</item>
+        <item>@string/title_section6_organisers</item>
+        <item>@string/title_section7_maps</item>
+        <item>@string/title_section8_feedback</item>
+        <item>@string/title_section9_settings</item>
+        <item>@string/title_section10_about_us</item>
+    </string-array>
+
+    <string-array name="sections_icons">
+        <item>@drawable/home</item>
+        <item>@drawable/news</item>
+        <item>@drawable/program</item>
+        <item>@drawable/speakers</item>
+        <item>@drawable/partners</item>
+        <item>@drawable/organisers</item>
+        <item>@drawable/maps</item>
+        <item>@drawable/feedback</item>
+        <item>@drawable/settings</item>
+        <item>@drawable/about</item>
+    </string-array>
+
+    <string-array name="sections_menu">
+        <item>@string/menu_home</item>
+        <item>@string/menu_news</item>
+        <item>@string/menu_program</item>
+        <item>@string/menu_speakers</item>
+        <item>@string/menu_partners</item>
+        <item>@string/menu_organisers</item>
+        <item>@string/menu_maps</item>
+        <item>@string/menu_feedback</item>
+        <item>@string/menu_settings</item>
+        <item>@string/menu_about_us</item>
+    </string-array>
+
+    <string-array name="section_titles">
+        <item>Section T1</item>
+        <item>Section T2</item>
+        <item>Section T3</item>
+    </string-array>
+</resources>

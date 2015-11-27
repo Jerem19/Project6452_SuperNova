@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- for the color -->
+    <color name="red">#F44336</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- for actionbar -->
+    <string name="synchronization">Synchronize</string>
+
+    <!-- for the navigation activity -->
+
+    <!-- for the title -->
+
+    <string name="title_section1_home">\u0020\u0020Home</string>
+    <string name="title_section2_news">\u0020\u0020News</string>
+    <string name="title_section3_program">\u0020\u0020Program</string>
+    <string name="title_section4_speakers">\u0020\u0020Speakers</string>
+    <string name="title_section5_partners">\u0020\u0020Partners</string>
+    <string name="title_section6_organisers">\u0020\u0020Organisers</string>
+    <string name="title_section7_maps">\u0020\u0020Maps</string>
+    <string name="title_section8_feedback">\u0020\u0020Feedback</string>
+    <string name="title_section9_settings">\u0020\u0020Settings</string>
+    <string name="title_section10_about_us">\u0020\u0020About us</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- for the menu -->
+
+    <string name="menu_home">Home</string>
+    <string name="menu_news">News</string>
+    <string name="menu_program">Program</string>
+    <string name="menu_speakers">Speakers</string>
+    <string name="menu_partners">Partners</string>
+    <string name="menu_organisers">Organisers</string>
+    <string name="menu_maps">Maps</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about_us">About us</string>
+
+    <string name="action_example">Example action</string>
+</resources>
